@@ -6,3 +6,8 @@
 - test_module: main module to run the program
 - transaction.txt : file recorded all transaction seperate info by ','
 - Programming Concepts and Practice 2023 January Assignments : file question details.
+## Run:
+```
+pip install numpy
+python test_module.py
+```
