@@ -1,4 +1,5 @@
 # Code of assignments of SHU Master of Data Analystics Course
+Machine Learning and Programming module
 ## Details of files in PCP_AS1(Assessment 1): 
 - dataset_module: codes to retrieve dataset from txt file
 - distance_module : codes to calculate the distance of 2 transaction
